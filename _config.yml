@@ -1,7 +1,7 @@
 name: heartofthemissioncounseling
 favicon: null
-layout_spectrum: 0.9466613598633558
-typography_spectrum: 0.38138851220719516
+layout_spectrum: 1
+typography_spectrum: 0.5494
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1b1b1b'
+    - '#fec62e'
+    - '#30411a'
+    - '#bca022'
+    - '#c1731b'
   brandStrength: 0.18731771525926888
   lightness: 0.9479651239234954
   saturation: 0.9840590024832636
