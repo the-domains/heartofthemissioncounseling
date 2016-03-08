@@ -1,6 +1,6 @@
 name: heartofthemissioncounseling
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75065
 typography_spectrum: 0.38673
 title: Holistic Individual and Couples Therapy
 cta:
@@ -23,7 +23,7 @@ color:
     - '#bca022'
     - '#c1731b'
   brandStrength: 1
-  lightness: 0
-  saturation: 0.4375
-  rhythmicContrast: 0
+  lightness: 0.1875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
